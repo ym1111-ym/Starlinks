@@ -1,0 +1,26 @@
+.map-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+
+.track, .map, .spinner{
+    position: absolute;
+    margin: 45vh auto 0;
+}
+
+.spinner {
+    z-index: 99;
+}
+.map{
+    z-index: 0;
+}
+
+.track{
+    z-index: 999;
+}
+/*
+z index 谁在上面
+ */
