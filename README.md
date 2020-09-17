@@ -1,3 +1,44 @@
+# Starlinks
+
+This is a React JS based data Visualization front-end web project
+User will be able to see Xspace satellites on map as well as track which direction hey move
+
+### Tech/Framework used
+React JS, D3, AWS
+
+### Screenshots
+
+Home page (before search)
+
+<img width="1436" alt="Screen Shot 2020-09-16 at 5 40 05 PM" src="https://user-images.githubusercontent.com/67878247/93406189-efeceb00-f843-11ea-93c9-9251ccf57991.png">
+
+
+
+
+Search
+
+<img width="1432" alt="Screen Shot 2020-09-16 at 5 40 49 PM" src="https://user-images.githubusercontent.com/67878247/93406234-05621500-f844-11ea-9d8b-4e64ded1d774.png">
+
+
+
+
+Find Satellite
+
+<img width="1423" alt="Screen Shot 2020-09-16 at 5 41 08 PM" src="https://user-images.githubusercontent.com/67878247/93406277-19a61200-f844-11ea-88fc-1dcbc83c3e60.png">
+
+
+
+
+Track on map (moving in real-time)
+<img width="1434" alt="Screen Shot 2020-09-16 at 5 41 19 PM" src="https://user-images.githubusercontent.com/67878247/93406307-2cb8e200-f844-11ea-8713-90c15a7269f7.png">
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -37,32 +78,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
